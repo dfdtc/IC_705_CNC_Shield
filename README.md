@@ -71,7 +71,7 @@ Two screw designs are included: tapered countersink and no‑countersink (suitab
 CNC shops usually offer anodizing and painting, but off‑the‑shelf aluminum profiles may not be available in all colors (see section 2.3). Configure surface treatment options yourself.
 
 #### 1.5  
-The handle model is thick and contains a large “c”‑shaped chamfer; CNC machining time can be long. If cost is an issue, consider 3D printing—strength requirements are fully met.
+The handle model is thick and contains a large chamfer; CNC machining time can be long. If cost is an issue, consider 3D printing—strength requirements are fully met.
 
 #### 1.6  
 The top plate has M4 holes for fixing the finished Picatinny rails (3/7/11 slots). It’s recommended to thread these yourself during fabrication.
