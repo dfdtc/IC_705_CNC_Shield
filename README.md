@@ -59,7 +59,7 @@ Additional features of the derived models are distinguished by suffixes separate
 ### 1. Fabrication Notes
 
 #### 1.1  
-Because some outsourcing factories provide free edge chamfering / deburring (e.g., Kuanzhou), the top and bottom plate models have no edge chamfers. Pay attention to whether your chosen factory offers this service.
+Because some outsourcing factories provide free edge chamfering / deburring (e.g., CNC-AiCNC-Ai), the top and bottom plate models have no edge chamfers. Pay attention to whether your chosen factory offers this service.
 
 #### 1.2  
 The handle model is provided in both un‑chamfered & non‑countersunk versions, as well as chamfered & countersunk variants.
